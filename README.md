@@ -1,0 +1,2 @@
+# GreedyUp-Composite-Multi-Well-Zonation-for-Consistent-Simulation-Layering
+GreedyUp builds one laterally consistent set of reservoir-simulation layers from core/log data of many wells via composite greedy zonation, before any 3-D model exists. Includes an offline browser app, a Python implementation with Pareto parameter search and single-phase flow validation, and scripts, tables and figures that reproduce the paper.
