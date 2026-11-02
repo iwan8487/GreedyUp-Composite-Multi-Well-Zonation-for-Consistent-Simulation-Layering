@@ -172,6 +172,3 @@ If you use this software, please cite the paper and the software.
 * Contact: M. Kurniawan Alfadli, m.kurniawan@unpad.ac.id , Universitas Padjadjaran.
 
 ---
-
-* **Reproduksi hasil paper.** Jalankan `python python/reproduce_results.py --app-html app/consistent_grid_explorer.html --out results`.
-* **Sebelum membandingkan angka aplikasi dengan paper,** baca bagian *Known issues*: ada bug ketebalan benchmark, aplikasi hanya memakai rerata geometrik, dan data demo sedikit berbeda dari impor LAS.
